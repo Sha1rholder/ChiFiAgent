@@ -49,6 +49,33 @@ Account name: ZHANG CHENGYUAN
 
 After the payment has been confirmed, the agent will send you a screenshot of the payment receipt. Therefore, it is generally recommended to make the first payment using a bank card, with an amount equal to or greater than the value of your order as a deposit. After the agent purchases the product, you can then use PayPal to pay for the shipping cost. The shipping cost you need to pay will be deducted the deposit amount that exceeds the product price and profit. If your deposit is more than the total of the product price, profit, and shipping cost, I will refund the excess amount to you via PayPal.
 
+# Shipping
+
+To ensure that your goods are delivered to your address promptly and accurately, please provide the following information in the specified format:
+
+```
+Country
+Recipient's Full Name (Real Name or Passport Name)
+Detailed Address
+Phone Number
+State/Province
+City
+Postal Code
+Email
+Declared Value
+```
+
+## Declared Value
+
+The declared value **may** affect customs duties. Declaring a higher value may result in higher costs if taxed, while declaring a lower value may increase the likelihood of customs inspections. If you are inexperienced in this matter, I can recommend a declared value for you. I will **do my best** to help you avoid and save on costs.
+
+## Shipping Fees
+
+Various shipping options are available:
+
+- Standard Economy Courier: For example, shipping to the United States costs 135 RMB for the first 0.5 kg, and 35 RMB for each additional 0.5 kg. The delivery time is approximately 11 days.
+- SF International Express: This option is roughly twice the price of the standard economy courier but offers faster delivery times, more convenience, and better service.
+
 # Additional Notes
 
 - If the product's warranty region is China and it is within the warranty period, the purchasing agent is obligated to contact the seller on behalf of the buyer to assist with warranty issues. However, the shipping cost for repairs must be borne by the buyer.
