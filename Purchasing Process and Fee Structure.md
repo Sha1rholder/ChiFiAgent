@@ -2,7 +2,7 @@
 
 # Purchase of Brand New Items
 
-1. The buyer selects the item and entrusts the agent to negotiate the price. After the agent, buyer, and seller reach an agreement, the buyer pays **half of the item price** to the agent as deposit.
+1. The buyer selects the item and entrusts the agent to negotiate the price. After the agent, buyer, and seller reach an agreement, the buyer pays at least **half of the item price** to the agent as deposit.
 2. The agent purchases the item and waits for its arrival (usually about 3 days).
 3. Upon receiving the item, the agent opens and inspects it, records a video to check for defects, and sends the inspection video to the buyer.
 4. The buyer confirms the item is correct based on the images and video sent by the agent, chooses the shipping method, and pays for the rest of item price, shipping, and agent fees.
@@ -12,11 +12,11 @@
 
 5. After receiving the shipping and agent fees, the agent records a shipping video and sends the item to the buyer.
 
-The agent fee for this method is 1.5% of the item price, with a minimum fee of \$7 and a maximum fee of \$49.
+The agent fee for this method is 1.5% of the item price, with a minimum fee of 49 rmb and a maximum fee of 349 rmb.
 
 # Purchase of Second-hand Items
 
-1. The buyer selects the item and entrusts the agent to negotiate the price. After the agent, buyer, and seller reach an agreement, the buyer pays **half of the item price** to the agent as deposit.
+1. The buyer selects the item and entrusts the agent to negotiate the price. After the agent, buyer, and seller reach an agreement, the buyer pays at least **half of the item price** to the agent as deposit.
 2. The agent purchases the item and waits for its arrival (usually about 3 days).
 3. Upon receiving the item, the agent opens and inspects it, records a video to check for defects, and sends the inspection video to the buyer.
 4. The buyer confirms the item is correct based on the images and video sent by the agent, chooses the shipping method, and pays for the rest of item price, shipping and agent fees.
@@ -25,15 +25,15 @@ The agent fee for this method is 1.5% of the item price, with a minimum fee of \
 
 5. After receiving the shipping and agent fees, the agent records a shipping video and sends the item to the buyer.
 
-The agent fee for this method is 1.8% of the item price, with a minimum fee of \$9 and a maximum fee of \$69.
+The agent fee for this method is 2% of the item price, with a minimum fee of 69 rmb and a maximum fee of 489 rmb.
 
 # Payment Methods
 
 **Alipay** is the preferred payment method. Cross-border payment fee depends on the amount of the payment and your location (ususlly not much). You can ask the agent for payment QR code or tell the agent your Alipay account (phone number with country code) to receive a payment request.
 
-If you use **PayPal** for payment, you will be charged a 5% cross-border payment fee, but the funds will be transferred quickly. My PayPal account is [paypal.me/hqywygd](https://paypal.me/hqywygd).
+If you use **PayPal** for payment, you may be charged a 5% cross-border payment fee, but the funds will be transferred quickly. My PayPal account is [paypal.me/hqywygd](https://paypal.me/hqywygd).
 
-If you use a **bank card** for payment, you may be charged a flat fee of $9, with the exact rate varying depending on your bank. It usually takes a whole day for the funds to be transferred. The following is bank account information of the agent:
+If you use a **bank card** for payment, you may be charged a flat fee with the exact rate varying depending on your bank. It usually takes a whole day for the funds to be transferred. The following is bank account information of the agent:
 
 ```
 Destination country: China
@@ -42,7 +42,7 @@ Beneficiary's Bank: China Merchants Bank,H.0.Shenzhen,China
 Account number / IBAN: 6214 8557 1371 0776
 Account name: ZHANG CHENGRMB
 CNAPS: 308331012079
-(Please leave no remark if you agree. That may save a few time to explain to the bank for )
+Remark: (Please leave no remark if you agree. That may save a few time to explain to the bank for )
 ```
 
 After the payment has been confirmed, you can ask the agent to send you a screenshot of receipt.
@@ -104,4 +104,4 @@ I also recommand SF International Express if you don't mind roughly twice the pr
 | British pound | GBP  | ≈9.6 RMB   | ≈0.10 GBP  |
 | Japanese yen  | JPY  | ≈0.050 RMB | ≈20 JPY    |
 
-**for reference only**
+**Actual settlement will be based on the exchange rate on the day the buyer makes the final payment. The above exchange rates are for reference only.**
