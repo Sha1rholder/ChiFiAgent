@@ -40,7 +40,7 @@ Destination country: China
 SWIFT / BIC code: CMBCCNBS or CMBCCNBSXXX
 Beneficiary's Bank: China Merchants Bank,H.0.Shenzhen,China
 Account number / IBAN: 6214 8557 1371 0776
-Account name: ZHANG CHENGRMB
+Account name: ZHANG CHENGYUAN
 CNAPS: 308331012079
 Remark: (Please leave no remark if you agree. That may save a few time to explain to the bank for )
 ```
