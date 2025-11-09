@@ -32,15 +32,31 @@ The agent fee for this method is **3% of the item price**, with a minimum of **6
 
 # Payment Methods
 
+**Crypto (USDT via OKX)** is the most recommended payment method for most customers. Unlike PayPal or VISA, crypto transfers on OKX are free. This makes it the most cost-effective option for international payments.  
+To pay with USDT via OKX, please [add me on OKX](./assets/OKX%20QR%20code.jpg) and use the following details:
+
+```txt
+Recipient's UID: 531491139568678256
+Recipient's real name: 张君一
+```
+
+**If you are new to crypto or need detailed instructions on Crypto trading, please refer to our comprehensive guide: [Cryptocurrency Payment Tutorial](./Cryptocurrency%20Payment%20Tutorial.md)**
+
+---
+
 **Alipay** is the preferred payment method **for most Asian customers** in Indonesia, Malaysia, Thailand, Singapore, South Korea (partial), Philippines (partial), and Vietnam (partial). Cross-border payment fees depend on the amount and your location (usually minimal). You can ask the agent for a payment QR code or provide your Alipay account (phone number with country code) to receive a payment request.  
-Pay via Alipay: [click me and scan the QR code that pops up.](./assets/Alipay%20QR%20code.jpg) My legal full name is 张君一, so if Alipay asks for my “middle name”, please enter 君.
+Pay via Alipay: [click me and scan the QR code.](./assets/Alipay%20QR%20code.jpg) My legal full name is 张君一, so if Alipay asks for my “middle name”, please enter 君.
+
+---
 
 ~~If you use **PayPal** for payment, you may be charged a 5% cross-border fee.~~  
 ~~Pay via PayPal: <https://paypal.me/hqywygd>~~
 
 **PayPal payments are currently unavailable.**
 
-If you use a **VISA card** for payment, your bank may charge a flat fee, and the exact rate varies by institution. Transfers usually take about one business day.  
+---
+
+If you use a **VISA card** for payment, your’be paying service fee, and the exact rate varies by institution. Transfers usually take about one business day.  
 Pay via bank transfer (SWIFT system):
 
 ```txt
