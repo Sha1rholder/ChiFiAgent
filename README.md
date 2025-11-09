@@ -4,7 +4,7 @@
 
 [r/ChiFiAgent](https://www.reddit.com/r/ChiFiAgent) is a community for proxy purchasing Chi-Fi products and other made-in-China gadgets. Feel free to discuss, review, or ask questions about anything related. The moderator/agent is always available for inquiries and assistance with purchasing any Chinese products, whether they are Hi-Fi items or not.
 
-Below is the *Process and Fee Structure for Purchasing Agent Service*. If you have any questions, please contact the agent via email: <sha1rholder@outlook.com>
+The following is a detailed guide to proxy purchasing services. If you have any questions, please contact the agent via email: <sha1rholder@outlook.com>
 
 ## Purchase of Brand New Items
 
@@ -32,29 +32,39 @@ The agent fee for this method is **3% of the item price**, with a minimum of **6
 
 # Payment Methods
 
-**Alipay** is the preferred payment method **for Asian customers** in Indonesia, Malaysia, Thailand, Singapore, South Korea (partial), Philippines (partial), and Vietnam (partial). Cross-border payment fees depend on the amount and your location (usually minimal). You can ask the agent for a payment QR code or provide your Alipay account (phone number with country code) to receive a payment request.
+**Alipay** is the preferred payment method **for most Asian customers** in Indonesia, Malaysia, Thailand, Singapore, South Korea (partial), Philippines (partial), and Vietnam (partial). Cross-border payment fees depend on the amount and your location (usually minimal). You can ask the agent for a payment QR code or provide your Alipay account (phone number with country code) to receive a payment request.  
+Pay via Alipay: [click me and scan the QR code that pops up.](./assets/Alipay%20QR%20code.jpg) My legal full name is 张君一, so if Alipay asks for my “middle name”, please enter 君.
 
-<!-- > Alipay is currently unavailable. -->
+~~If you use **PayPal** for payment, you may be charged a 5% cross-border fee.~~  
+~~Pay via PayPal: <https://paypal.me/hqywygd>~~
 
-If you use **PayPal** for payment, you may be charged a 5% cross-border fee.
-Pay via PayPal: <https://paypal.me/hqywygd>
+**PayPal payments are currently unavailable.**
 
-<!-- > PayPal payments are currently unavailable. -->
-
-If you use a **VISA card** for payment, your bank may charge a flat fee, and the exact rate varies by institution. Transfers usually take about one business day.
-Pay via bank transfer:
+If you use a **VISA card** for payment, your bank may charge a flat fee, and the exact rate varies by institution. Transfers usually take about one business day.  
+Pay via bank transfer (SWIFT system):
 
 ```txt
 Destination country: China
-SWIFT / BIC code: CMBCCNBS or CMBCCNBSXXX
-Beneficiary's Bank: China Merchants Bank, H.O. Shenzhen, China
-Account number / IBAN: 6214 8557 1371 0776
+SWIFT / BIC code: CMBCCNBS
 Account name: ZHANG CHENGYUAN
-CNAPS: 308331012079
+Account number / IBAN: 6214855713710776
+CNAPS code: 308331012079
+Beneficiary's bank: China Merchants Bank, H.O. Shenzhen, China
 Remark: (leave blank)
 ```
 
-<!-- > VISA transfer is currently unavailable. -->
+or
+
+```txt
+Destination country: Hong Kong, China
+SWIFT / BIC code: SCBLHKHH
+Account name: ZHANG CHENGYUAN
+Account number / IBAN: 32086697161
+RTGS ID: 003
+Beneficiary's bank: Standard Chartered Bank (Hong Kong) Limited
+Bank address: Standard Chartered Tower, Floor 15, 388 Kwun Tong Road, Kwun Tong
+Remark: (leave blank)
+```
 
 Banks generally do not require recipients to explain the source of small cross-border remittances, but if you include a remark, they may request clarification—which can delay processing. You’re free to decide whether to include a remark.
 
@@ -104,6 +114,7 @@ If your deposit exceeds the total amount due (including product price and shippi
 - The agent will proactively share all communication records with the seller and purchase documentation with you to protect your rights as a consumer.
 - The agent will make every effort to help you avoid customs duties. While this has been consistently successful so far, **any duties imposed by customs must be paid by you**.
 - Please inform the agent of your local voltage standard so the correct adapter can be selected. If the product becomes unusable or is damaged due to incorrect voltage caused by your failure to provide this information, the agent will not be liable.
+- The cross-border logistics quotation provided by the agent is for reference only and is offered as a no-profit convenience to facilitate your purchase. Therefore, if you are dissatisfied with the quoted logistics rates, you may also request the agent to use your designated cross-border logistics carrier, and you will directly coordinate with that carrier and bear all shipping costs yourself.
 
 # CNY Exchange Rate
 
@@ -118,4 +129,4 @@ If your deposit exceeds the total amount due (including product price and shippi
 
 ---
 
-**Liability and Disclaimer:** Due to changes in international relations, tariff policies, and payment processor rules, this GitHub repository may be updated without prior notice. However, you can always review past versions. Barring force majeure, the proxy purchase terms are governed by the repository’s state at the time you place your order.
+**Liability and Disclaimer:** Due to changes in international relations, tariff policies, and payment processor rules, this GitHub repository may be updated without prior notice. However, barring force majeure, the proxy purchase terms are governed by the repository’s state at the time you place your order.
