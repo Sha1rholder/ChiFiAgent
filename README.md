@@ -6,29 +6,27 @@
 
 The following is a detailed guide to proxy purchasing services. **Be sure to read and agree before buying anything!** If you have any questions, please contact Agent via email: <sha1rholder@outlook.com>
 
-## Purchasing Brand New Items
+# Purchasing Items
 
-1. You select the item and ask Agent to negotiate the price. Once you and the seller agree on a price, you'll pay a deposit—typically equal to the full item price—directly to the seller.
-2. Agent purchases the item and, by default, ships it directly to the consolidation center. Only if you or Agent deem it necessary will the item be delivered to Agent, opened, inspected for defects, and recorded on video. Each shipment is typically completed within 3 days.
-3. You confirm the item is correct based on the images and video sent by Agent, choose your preferred shipping method, and pay the remaining balance—including the rest of the item price, shipping cost, and agent fee.
-4. After receiving your payment for shipping and Agent fee, Agent records a shipping video and sends the item to you.
+**Step 1:** You select an item, and authorize Agent to negotiate with the seller. Upon reaching an agreement on price, the full payment is made to Agent as a escrow.
 
-- If the item is counterfeit or has **obvious defects recognized by the trading platform**, you can request an exchange or a full refund.
-- If you unilaterally decide you no longer want the item, you may return it within the **free return policy period** (usually 7 days after receiving it), bear the return shipping cost and receive a refund minus a 5% restocking fee (capped at 200 CNY).
+Agent then purchases the item. Upon receiving, Agent opens and inspects it, records a video or takes pictures to document its condition.
 
-Agent fee for this method is **2% of the item price**, with a minimum of **49 CNY** and a maximum of **349 CNY**.
+**Step 2:** You confirm the item is correct, in an acceptable condition, and well-packaged.
 
-## Purchasing Second-hand Items
+Agent then provides you with cross-border shipping options.
 
-1. You select the item and ask Agent to negotiate the price. Once you and the seller agree on a price, you'll pay a deposit—typically equal to the full item price—directly to the seller.
-2. Agent purchases the item and waits for it to arrive (usually within 4 days).
-3. Upon receiving the item, Agent opens and inspects it, records a video to document its condition, and sends the inspection video to you.
-4. You confirm the item is correct based on the images and video sent by Agent, choose your shipping method, and pay the remaining balance—including the rest of the item price, shipping cost, and agent fee.
-5. After receiving your payment for shipping and Agent fee, Agent records a shipping video and sends the item to you.
+**Step 3:** You choose a shipping method and pay the remaining balance including shipping cost and Agent fee.
 
-- If the item is counterfeit or has **obvious defects recognized by the trading platform**, you can request an exchange or a full refund.
+After receiving the remaining balance, Agent delivers the item to cross-border logistics carrier and they'll start shipping by any time.
 
-Agent fee for this method is **3% of the item price**, with a minimum of **69 CNY** and a maximum of **489 CNY**.
+**Final step: Sit and relax for its arrival!**
+
+## Agent Fee
+
+Purchasing brand-new items: **2% of the item price**, with a minimum of **49 CNY** and a maximum of **349 CNY**.
+
+Purchasing second-hand items: **3% of the item price**, with a minimum of **69 CNY** and a maximum of **489 CNY**.
 
 # Payment Methods
 
@@ -39,7 +37,7 @@ Agent fee for this method is **3% of the item price**, with a minimum of **69 CN
 
 ## Crypto
 
-**Crypto via CEX (USDC on OKX/Binance)** is the preferred payment method for most customers. Unlike traditional options like PayPal or Visa, transferring USDC on these platforms incurs zero fees, making it the most economical and hassle-free choice for international transfers.
+**Crypto via CEX (USDC on OKX/Binance)** is the preferred payment method for most customers. Unlike traditional options like PayPal or Visa, transferring USDC via OKX/Binance incurs zero fees, making it the most economical and hassle-free choice for international transfers.
 
 To pay via OKX, please scan [my OKX QR code](<./assets/OKX QR code.jpg>) and use the following details:
 
@@ -51,6 +49,8 @@ Recipient's real name: 张君一
 To pay via Binance, please scan [my Binance QR code](<./assets/Binance QR code.jpg>) or use Binance ID `1213589977`. Warning: Binance is unavailable in some countries such as United States, Canada, and Netherlands.
 
 If you are new to crypto, please refer to [OKX Crypto Payment Tutorial](<./OKX Crypto Payment Tutorial.md>). Feel free to use my invitation codes, it should **save you around 20 USD**: `49819258` (OKX); `GRO_28502_FEJD8` (Binance).
+
+For risk control purposes, non-custodial wallet P2P transfers are not supported.
 
 ## Alipay
 
@@ -95,11 +95,11 @@ Once your payment is confirmed, you can ask Agent for a screenshot of the receip
 
 ## PayPal
 
-**PayPal** is convenient but the difficulty in withdrawing adds up cost for Chinese merchants, so an additional 4% will be charged to cover it up. ~~I won't recommand it personally.~~
+**PayPal** is convenient but the difficulty in withdrawing adds up cost for Chinese merchants, so an additional 4% will be charged to cover it up.
 
 Pay via PayPal: <https://paypal.me/hqywygd>
 
-# Shipping, Postage, and Delivery Time
+# Shipping, Freight, and Delivery Time
 
 To ensure your package is delivered promptly and accurately, please provide the following information in this exact format:
 
@@ -122,9 +122,9 @@ The declared value **may** affect customs duties. A higher declared value could 
 
 **Note:** While no duties have been incurred to date, this isn't guaranteed in the future.
 
-## Postage
+## Freight
 
-**The following is for reference only. Postage rates and delivery times are subject to change.** A package roughly the size of a Hifiman Arya is typically treated as 2kg by couriers. Examples:
+**The following is for reference only. Freight and delivery times are subject to change.** A package roughly the size of a Hifiman Arya is typically treated as 2kg by couriers. Examples:
 
 - **United States**: 74 CNY/kg + 98 CNY ~6 days by air
 - **Hawaii**: 70 CNY/kg + 100 CNY ~8 days by air
@@ -135,15 +135,17 @@ The declared value **may** affect customs duties. A higher declared value could 
 
 Agent also recommends **SF International Express** if you're willing to pay roughly double the standard economy courier rate for faster delivery, greater convenience, and better service.
 
-If your deposit exceeds the total amount due (including product price and shipping), Agent can refund the difference via PayPal or any method you prefer.
+If your deposit exceeds the total amount due (including product price and shipping), Agent can refund the difference.
 
 # Additional Notes
 
-- If the product's warranty is valid only in China and still within the warranty period, Agent can contact the seller on your behalf to assist with warranty claims for free. However, **you are responsible for any overseas shipping costs related to repairs**.
+- If you bought a counterfeit or has **obvious defects recognized by the trading platform**, you can request an exchange or a full refund.
+- (Only when purchasing brand-new items) If you decide you no longer want the item, you may return it within the **free return policy period** (usually 7 days after receiving it), bear the return shipping cost and receive a refund minus a 5% restocking fee (capped at 200 CNY).
+- Agent can assist you with warranty claims whenever you need, **for free**! However, **you'll pay the shipping costs related to repairs**.
 - Agent will proactively share all communication records with the seller and purchase documentation with you to protect your rights as a consumer.
-- Agent will make every effort to help you avoid customs duties. While this has been consistently successful so far, **any duties imposed by customs must be paid by you**.
+- Agent will make every effort to help you avoid customs duties. While this has been consistently successful so far, **you'll pay the duties imposed by customs**.
 - Please inform Agent of your local voltage standard so the correct adapter can be selected. If the product becomes unusable or is damaged due to incorrect voltage caused by your failure to provide this information, Agent will not be liable.
-- The cross-border logistics quotation provided by Agent is for reference only and is offered as a no-profit convenience to facilitate your purchase. Therefore, if you are dissatisfied with the quoted logistics rates, you may also request Agent to use your designated cross-border logistics carrier, and you will directly coordinate with that carrier and bear all shipping costs yourself.
+- The cross-border logistics quotation provided by Agent is for reference only and is offered as a no-profit convenience to facilitate your purchase. Therefore, if you are unhappy with the quotation, you may also request Agent to use your designated cross-border logistics carrier.
 - Cross-border transportation processes are beyond Agent's control. **For any cross-border logistics, there is a very low probability of serious delays (happened once), shipping damage (not happened yet), or even lost parcels (not happened yet), for which Agent shall not be held responsible.** Therefore, sometimes it makes sense to opt for a more expensive logistics service or even purchase additional insurance. If you wish to purchase insurance, please notify Agent before the cross-border shipment is dispatched, and Agent will provide a quote. In the event of an insurance claim triggered, Agent will refund the full compensation amount to you.
 
 # CNY Exchange Rate
