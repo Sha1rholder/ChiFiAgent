@@ -95,9 +95,7 @@ Once your payment is confirmed, you can ask Agent for a screenshot of the receip
 
 ## PayPal
 
-**The least recommanded payment method.**
-
-If you use **PayPal** for payment, you'll be charged an additional 4% fee to cover up withdrawal fee.
+**PayPal** is convenient but the difficulty in withdrawing adds up cost for Chinese merchants, so an additional 4% will be charged to cover it up. ~~I won't recommand it personally.~~
 
 Pay via PayPal: <https://paypal.me/hqywygd>
 
