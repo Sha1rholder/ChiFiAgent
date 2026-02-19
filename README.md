@@ -6,7 +6,13 @@
 
 The following is a detailed guide to proxy purchasing services. **Be sure to read and agree before buying anything!** If you have any questions, please contact Agent via email: <sha1rholder@outlook.com>
 
-# Purchasing Items
+- [How to Purchase](#how-to-purchase)
+- [Pricing](#pricing-agent-fee)
+- [Payment Methods](#payment-methods)
+- [Shipping](#shipping-freight-and-delivery-time)
+- [Additional Notes](#additional-notes)
+
+# How to Purchase
 
 **Step 1:** You select an item, and authorize Agent to negotiate with the seller. Upon reaching an agreement on price, the full payment is made to Agent as a escrow.
 
@@ -22,7 +28,7 @@ After receiving the remaining balance, Agent delivers the item to cross-border l
 
 **Final step: Sit and relax for its arrival!**
 
-## Agent Fee
+## Pricing (Agent Fee)
 
 Purchasing brand-new items: **2% of the item price**, with a minimum of **49 CNY** and a maximum of **349 CNY**.
 
@@ -41,7 +47,7 @@ Purchasing second-hand items: **3% of the item price**, with a minimum of **69 C
 
 To pay via OKX, please scan [my OKX QR code](<./assets/OKX QR code.jpg>) and use the following details:
 
-```
+```txt
 Recipient's UID: 531491139568678256
 Recipient's real name: 张君一
 ```
@@ -64,7 +70,7 @@ If you pay with a **VISA card**, you'll be paying service fee, and the exact rat
 
 Pay via bank transfer (SWIFT system):
 
-```
+```txt
 Destination country: China
 SWIFT / BIC code: CMBCCNBS
 Account name: ZHANG CHENGYUAN
@@ -76,7 +82,7 @@ Remark: (leave blank)
 
 or
 
-```
+```txt
 Destination country: Hong Kong, China
 SWIFT / BIC code: SCBLHKHH
 Account name: ZHANG CHENGYUAN
@@ -91,8 +97,6 @@ Banks generally do not require recipients to explain the source of small cross-b
 
 Once your payment is confirmed, you can ask Agent for a screenshot of the receipt.
 
-`ZHANG CHENGYUAN` is Agent's family member.
-
 ## PayPal
 
 **PayPal** is convenient but the difficulty in withdrawing adds up cost for Chinese merchants, so an additional 4% will be charged to cover it up.
@@ -103,7 +107,7 @@ Pay via PayPal: <https://paypal.me/hqywygd>
 
 To ensure your package is delivered promptly and accurately, please provide the following information in this exact format:
 
-```
+```txt
 Recipient's Full Name (as on passport)
 Country
 State/Province
