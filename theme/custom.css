@@ -1,14 +1,14 @@
 :root {
-  --tutorial-image-max-height: 360px;
-  --tutorial-image-max-width: 50%;
+	--tutorial-image-max-height: 400px;
+	--tutorial-image-max-width: max(50%, 360px);
 }
 
 .tutorial-img {
-  display: block;
-  max-height: var(--tutorial-image-max-height);
-  max-width: var(--tutorial-image-max-width) !important;
-  width: auto;
-  height: auto;
-  object-fit: contain;
-  margin: 1rem auto;
+	display: block;
+	max-height: var(--tutorial-image-max-height);
+	max-width: var(--tutorial-image-max-width) !important;
+	width: auto;
+	height: auto;
+	object-fit: contain;
+	margin: 1rem auto;
 }
