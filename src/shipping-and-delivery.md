@@ -38,8 +38,6 @@ A parcel roughly the size of a Hifiman Arya is typically treated as 2 kg by cour
 
 EU customs clearance often causes delays.
 
-Agent also recommends **SF International Express** if you are willing to pay roughly double the standard economy courier rate for faster delivery, greater convenience, and better service.
-
 If your deposit exceeds the final total amount due, including product price and shipping, Agent can refund the difference.
 
 Continue to [Terms, Notes, and Exchange Rate](./terms-and-rates.md).

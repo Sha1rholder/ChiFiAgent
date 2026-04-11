@@ -11,4 +11,5 @@ default-theme = "navy"
 preferred-dark-theme = "navy"
 git-repository-url = "https://github.com/Sha1rholder/ChiFiAgent"
 site-url = "/ChiFiAgent/"
+additional-css = ["theme/custom.css"]
 additional-js = ["theme/exchange-rates.js"]

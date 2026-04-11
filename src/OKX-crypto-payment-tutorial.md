@@ -12,7 +12,7 @@ The Agent uses OKX as their crypto wallet and primarily accepts USDC as the paym
 
 Use the Agent's OKX invitation link <https://okx.com/join/49819258> to download the official OKX App; both parties may receive a bonus. You can also download the OKX app directly from the Google Play Store or Apple App Store.
 
-![OKX](./assets/OKX.jpg)
+<img src="./assets/OKX.jpg" alt="OKX" class="tutorial-img">
 
 ## Step 2: Register, Log In, and Complete Identity Verification (KYC)
 
@@ -22,7 +22,7 @@ To conduct P2P trading and withdraw funds (including internal transfers) on OKX,
 
 (Optional) Scan the QR code to add the Agent as a contact on OKX.
 
-![OKX QR code](<./assets/OKX QR code.jpg>)
+<img src="./assets/OKX QR code.jpg" alt="OKX QR code" class="tutorial-img">
 
 ## Step 3: Buy Crypto via P2P Trading (Fiat Transaction)
 
@@ -30,9 +30,9 @@ To conduct P2P trading and withdraw funds (including internal transfers) on OKX,
 
 On the OKX App homepage, tap "P2P trading" and follow the in-app instructions to purchase USDC.
 
-![P2P trading](<./assets/P2P trading.jpg>)
+<img src="./assets/P2P trading.jpg" alt="P2P trading" class="tutorial-img">
 
-![Express > Buy](<./assets/Express Buy.jpg>)
+<img src="./assets/Express Buy.jpg" alt="Express > Buy" class="tutorial-img">
 
 ## Step 4: Transfer USDC to the Agent
 
@@ -40,11 +40,11 @@ Select the currency you want to transfer (typically USDC).
 
 Navigate to: New destinations > OKX users > UID > 531491139568678256 (To avoid loss of funds, please copy this UID directly instead of typing it manually.)
 
-![Express > Withdraw](<./assets/Assets Withdraw.jpg>)
+<img src="./assets/Assets Withdraw.jpg" alt="Express > Withdraw" class="tutorial-img">
 
-![Withdraw > P2P Tutorial](<./assets/Withdraw P2P trading.jpg>)
+<img src="./assets/Withdraw P2P trading.jpg" alt="Withdraw > P2P Tutorial" class="tutorial-img">
 
-![input UID](./assets/UID.jpg)
+<img src="./assets/UID.jpg" alt="input UID" class="tutorial-img">
 
 You can also save the Agent to your address book for future use by navigating to: Saved destinations > Address book > Add recipient > OKX users > UID > 531491139568678256
 
