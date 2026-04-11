@@ -1,6 +1,6 @@
-# ChiFiAgent
+![banner](./assets/banner.avif)
 
-![banner](./assets/banner.webp)
+# ChiFiAgent
 
 [r/ChiFiAgent](https://www.reddit.com/r/ChiFiAgent) is a community for proxy purchasing Chi-Fi products and other made-in-China gadgets. Agent is available for product inquiries, negotiation, purchase, inspection, and international forwarding.
 

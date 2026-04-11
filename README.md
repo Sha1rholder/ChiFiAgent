@@ -1,15 +1,10 @@
 # ChiFiAgent
 
-This repository is built with `mdBook` and deployed to GitHub Pages through GitHub Actions.
+This repository hosts the ChiFiAgent community website. Please visit <https://www.chifiagent.com/> to view the live site.
 
-## Local development
+ChiFiAgent provides a purchasing service for Chinese products, focusing primarily on Hi-Fi equipment.
 
-```powershell
-mdbook serve
-```
+## Acknowledgements
 
-## Deployment
-
-- Push to `main` to build and deploy the site.
-- Pull requests run a build-only check.
-- In GitHub repository settings, set `Pages` source to `GitHub Actions`.
+- [mdBook](https://rust-lang.github.io/mdBook/) — Used to build this website.
+- [frankfurter.dev](https://frankfurter.dev/) — Used for real-time exchange rates.

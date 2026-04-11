@@ -11,14 +11,14 @@ The following payment methods are supported:
 
 **Crypto via CEX (USDC on OKX/Binance)** is the preferred payment method for most customers. Unlike PayPal or Visa, transferring USDC via OKX or Binance usually incurs no transfer fee, making it the most economical option for international payments.
 
-To pay via OKX, scan [my OKX QR code](<./assets/OKX QR code.jpg>) and use the following details:
+To pay via OKX, scan [my OKX QR code](<./assets/OKX QR code.avif>) and use the following details:
 
 ```txt
 Recipient's UID: 531491139568678256
 Recipient's real name: 张君一
 ```
 
-To pay via Binance, scan [my Binance QR code](<./assets/Binance QR code.jpg>) or use Binance ID `1213589977`.
+To pay via Binance, scan [my Binance QR code](<./assets/Binance QR code.avif>) or use Binance ID `1213589977`.
 
 Warning: Binance is unavailable in some countries, including the United States, Canada, and the Netherlands.
 
@@ -32,7 +32,7 @@ For risk-control purposes, non-custodial wallet P2P transfers are not supported.
 
 You can either ask Agent for a payment QR code or provide your Alipay account phone number with country code to receive a payment request.
 
-Pay via Alipay: scan [my Alipay QR code](<./assets/Alipay QR code.jpg>). The legal full name is `张君一`. If Alipay asks for a middle name, enter `君`.
+Pay via Alipay: scan [my Alipay QR code](<./assets/Alipay QR code.avif>). The legal full name is `张君一`. If Alipay asks for a middle name, enter `君`.
 
 ## Visa
 
