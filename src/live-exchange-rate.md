@@ -56,6 +56,4 @@
 	</p>
 </div>
 
-## Acknowledgement
-
-[frankfurter.dev](https://frankfurter.dev/) — Used for real-time exchange rates.
+Used [frankfurter.dev](https://frankfurter.dev/) to access real-time exchange rates.
