@@ -13,14 +13,57 @@
 
 ## CNY Exchange Rate Reference
 
-| Feb 6, 2026 | Code | 1 XXX approx. CNY | 1 CNY approx. XXX |
-| ----------- | ---- | ----------------- | ----------------- |
-| US dollar | USD | approx. 6.94 CNY | approx. 0.14 USD |
-| Euro | EUR | approx. 8.18 CNY | approx. 0.12 EUR |
-| British pound | GBP | approx. 9.40 CNY | approx. 0.11 GBP |
-| Japanese yen | JPY | approx. 0.04 CNY | approx. 23 JPY |
-
-Actual settlement uses the exchange rate on the day of final payment. The table above is for reference only.
+<div
+  class="fx-table"
+  data-fx-base="CNY"
+  data-fx-quotes="USD,EUR,GBP,JPY"
+  data-fx-source="https://api.frankfurter.dev/v2/rates?base=CNY&quotes=USD,EUR,GBP,JPY"
+>
+  <table>
+    <thead>
+      <tr>
+        <th>Reference Date</th>
+        <th>Currency</th>
+        <th>Code</th>
+        <th>1 XXX approx. CNY</th>
+        <th>1 CNY approx. XXX</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr data-currency="USD">
+        <td>Feb 6, 2026</td>
+        <td>US dollar</td>
+        <td>USD</td>
+        <td>approx. 6.94 CNY</td>
+        <td>approx. 0.14 USD</td>
+      </tr>
+      <tr data-currency="EUR">
+        <td>Feb 6, 2026</td>
+        <td>Euro</td>
+        <td>EUR</td>
+        <td>approx. 8.18 CNY</td>
+        <td>approx. 0.12 EUR</td>
+      </tr>
+      <tr data-currency="GBP">
+        <td>Feb 6, 2026</td>
+        <td>British pound</td>
+        <td>GBP</td>
+        <td>approx. 9.40 CNY</td>
+        <td>approx. 0.11 GBP</td>
+      </tr>
+      <tr data-currency="JPY">
+        <td>Feb 6, 2026</td>
+        <td>Japanese yen</td>
+        <td>JPY</td>
+        <td>approx. 0.04 CNY</td>
+        <td>approx. 23 JPY</td>
+      </tr>
+    </tbody>
+  </table>
+  <p class="fx-note">
+    Actual settlement uses the exchange rate on the day of final payment. The table above is a reference snapshot and will update at page load when the latest available Frankfurter reference rate can be fetched.
+  </p>
+</div>
 
 ## Liability and Disclaimer
 
