@@ -48,10 +48,10 @@ Navigate to: New destinations > OKX users > UID > 531491139568678256 (To avoid l
 
 You can also save the Agent to your address book for future use by navigating to: Saved destinations > Address book > Add recipient > OKX users > UID > 531491139568678256
 
-If OKX asks for the recipient's real name, please enter `张君一`
+If OKX asks for the recipient's real name, please enter `张君一`.
 
 ## Step 5: Confirm and Complete the Transfer
 
-On the final confirmation screen, **be sure to carefully double-check that the recipient's UID and the transfer amount are correct.**
+On the final confirmation screen, **be sure to carefully double-check that the recipient's UID and the transfer amount are correct**.
 
 After the transfer is successful, you can check its status under Assets > History.
