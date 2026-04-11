@@ -2,7 +2,7 @@
 
 ## Step 1: Product Selection and Escrow Payment
 
-You select an item, provide the Agent with your specific delivery details, and authorize the Agent to negotiate with the seller.
+You select an item, provide Agent with your delivery details, and authorize Agent to negotiate with the seller.
 
 Once the final price is agreed upon, you pay the full amount for the item to Agent to be held in escrow.
 
@@ -28,5 +28,7 @@ Agent provides you with the most cost-efficient shipping method. You pay the rem
 - Servive fee.
 
 After the remaining balance is received, Agent hands the parcel to the cross-border logistics carrier and will provide you with tracking method once it's available.
+
+## Step 4: Sleep
 
 Sit and wait for delivery!

@@ -4,16 +4,20 @@
 
 [r/ChiFiAgent | Reddit](https://www.reddit.com/r/ChiFiAgent) is a community for proxy purchasing Chi-Fi products and other made-in-China gadgets. Agent is available for product inquiries, negotiation, purchase, inspection, and international forwarding.
 
-This website explains the full proxy purchasing workflow. Please read all sections and make sure you agree before placing an order. If you have questions, contact Agent via email: <sha1rholder@outlook.com>.
+This website explains the full proxy purchasing workflow. Please read all sections and make sure you agree before placing an order.
 
-## Quick Summary
+If you have any questions, feel free to contact Agent via email: [sha1rholder@outlook.com](<mailto:sha1rholder@outlook.com?subject=Hi%20ChiFiAgent>).
 
-1. You choose an item and authorize Agent to negotiate with the seller.
-2. After the price is agreed, you send the full item payment to Agent as escrow.
-3. Agent purchases, receives, opens, and inspects the item, then shares photos or video.
-4. You confirm the item and choose a cross-border shipping method.
-5. You pay the remaining balance, including shipping and servive fee.
-6. Agent hands the parcel to the carrier and the delivery process begins.
+## Customer Guide
+
+Proxy purchasing service mainly involves four steps:
+
+1. Selecting an item and providing your delivery details.
+2. Confirming the condition of your item.
+3. Choosing a shipping method.
+4. Sitting and waiting for item delivery.
+
+Please go to next page for detailed process.
 
 ## Servive Fee
 
