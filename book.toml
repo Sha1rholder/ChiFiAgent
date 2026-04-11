@@ -7,9 +7,9 @@ language = "en"
 build-dir = "book"
 
 [output.html]
-default-theme = "navy"
-preferred-dark-theme = "navy"
+default-theme = "rust"
+preferred-dark-theme = "coal"
 git-repository-url = "https://github.com/Sha1rholder/ChiFiAgent"
-site-url = "/ChiFiAgent/"
+site-url = "/"
 additional-css = ["theme/custom.css"]
 additional-js = ["theme/exchange-rates.js"]

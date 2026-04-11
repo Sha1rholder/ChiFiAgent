@@ -12,7 +12,10 @@ This website explains the full proxy purchasing workflow. Please read all sectio
 2. After the price is agreed, you send the full item payment to Agent as escrow.
 3. Agent purchases, receives, opens, and inspects the item, then shares photos or video.
 4. You confirm the item and choose a cross-border shipping method.
-5. You pay the remaining balance, including shipping and Agent fee.
+5. You pay the remaining balance, including shipping and servive fee.
 6. Agent hands the parcel to the carrier and the delivery process begins.
 
-Proceed to [Purchase Process](./purchase-process.md) for detailed step-by-step guide.
+## Servive Fee
+
+- **New Items**: 2% of the item price (Min: 49 CNY / Max: 349 CNY)
+- **Pre-owned**: 3% of the item price (Min: 69 CNY / Max: 489 CNY)

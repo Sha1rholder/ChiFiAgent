@@ -7,4 +7,3 @@ ChiFiAgent provides a purchasing service for Chinese products, focusing primaril
 ## Acknowledgements
 
 - [mdBook](https://rust-lang.github.io/mdBook/) — Used to build this website.
-- [frankfurter.dev](https://frankfurter.dev/) — Used for real-time exchange rates.

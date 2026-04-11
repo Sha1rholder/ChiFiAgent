@@ -1,12 +1,15 @@
 # Summary
 
-- [Introduction](./intro.md)
+# ChiFiAgent
+
+- [Introduction](./introduction.md)
 - [Purchase Process](./purchase-process.md)
-- [Payment Methods](./payment-methods.md)
 - [Shipping and Delivery](./shipping-and-delivery.md)
-- [Terms, Notes, and Exchange Rate](./terms-and-rates.md)
+- [Payment Methods](./payment-methods.md)
+- [Service Commitment](./service-commitment.md)
 
-# Other Resources
+# Resources
 
-- [Reddit welcome message](Reddit-welcome-message.md)
-- [OKX crypto payment tutorial](./OKX-crypto-payment-tutorial.md)
+- [Live Exchange Rate](./live-exchange-rate.md)
+- [OKX Crypto Payment Tutorial](./OKX-crypto-payment-tutorial.md)
+- [Reddit Welcome Message](./Reddit-welcome-message.md)

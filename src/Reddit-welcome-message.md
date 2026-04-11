@@ -1,6 +1,6 @@
 **Welcome to Chi-Fi Agent Community!**
 
-**Proxy Buying** audio equipments and other consumer electronics from China is the original intention of establishing this community. Moderator is always available for inquiries and assistance with proxy buying any products from China.
+**Proxy Buying** audio equipments and other consumer electronics from China is the original intention of establishing this community. Moderator/Agent is always available for inquiries and assistance with proxy buying any products from China.
 
 # What is Welcomed
 

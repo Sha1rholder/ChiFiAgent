@@ -2,37 +2,31 @@
 
 ## Step 1: Product Selection and Escrow Payment
 
-You select an item and authorize Agent to negotiate with the seller. Once the final price is agreed, you pay the full item amount to Agent as escrow.
+You select an item, provide the Agent with your specific delivery details, and authorize the Agent to negotiate with the seller.
 
-Agent then purchases the item. After receiving it, Agent opens and inspects the package, and records photos or video to document the condition.
+Once the final price is agreed upon, you pay the full amount for the item to Agent to be held in escrow.
+
+Agent then purchases the item.
 
 ## Step 2: Inspection Confirmation
 
-You confirm that:
+After receiving it, Agent opens and inspects the package, documenting its condition through photos or video. You confirm that:
 
-- the correct item was received
-- the condition is acceptable
-- the packaging is adequate
+- The correct item was received.
+- The condition is acceptable.
+- The packaging is adequate.
 
 After your confirmation, Agent provides available cross-border shipping options.
 
-## Step 3: Shipping Selection and Final Balance
+If you prioritize speed and trust the seller, you may choose to skip this step. Doing so can save approximately four days, but it's at your own risk.
 
-You choose a shipping method and pay the remaining balance, including:
+## Step 3: Final Balance and Shipping
 
-- shipping cost
-- Agent fee
+Agent provides you with the most cost-efficient shipping method. You pay the remaining balance, including:
 
-After the remaining balance is received, Agent hands the parcel to the cross-border logistics carrier.
+- Shipping cost.
+- Servive fee.
 
-## Final Step
+After the remaining balance is received, Agent hands the parcel to the cross-border logistics carrier and will provide you with tracking method once it's available.
 
-Sit and wait for delivery.
-
-## Agent Fee
-
-Purchasing brand-new items: **2% of the item price**, with a minimum of **49 CNY** and a maximum of **349 CNY**.
-
-Purchasing second-hand items: **3% of the item price**, with a minimum of **69 CNY** and a maximum of **489 CNY**.
-
-Continue to [Payment Methods](./payment-methods.md).
+Sit and wait for delivery!
