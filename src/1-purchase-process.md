@@ -4,9 +4,9 @@
 
 You select an item, provide Agent with your delivery details, and authorize Agent to negotiate with the seller.
 
-Once the final price is agreed upon, you pay the full amount for the item to Agent to be held in escrow.
+Once the final price is agreed upon, you pay the full amount for the item to Agent as a deposit.
 
-Agent then purchases the item.
+Agent then purchases the item immediately after confirming the receipt of your payment.
 
 ## Step 2: Inspection Confirmation
 
