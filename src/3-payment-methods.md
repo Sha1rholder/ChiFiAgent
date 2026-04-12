@@ -60,6 +60,6 @@ To pay via Binance, scan [my Binance QR code](<./assets/Binance QR code.avif>) o
 
 Warning: Binance is unavailable in some countries, including the United States, Canada, and the Netherlands.
 
-If you are new to crypto, read [OKX crypto payment tutorial](<./OKX-crypto-payment-tutorial.md>). You may also use Agent's invitation codes, which may save around 20 USD: `49819258` (OKX) and `GRO_28502_FEJD8` (Binance).
+If you are new to crypto and would like to have a try, please read [Crypto Payment Tutorial](./crypto-payment-tutorial.md). You may also use Agent's invitation code, which may save around 20 USD: `49819258` (OKX) and `GRO_28502_FEJD8` (Binance).
 
 For risk-control purposes, non-custodial wallet P2P transfers are not supported.
