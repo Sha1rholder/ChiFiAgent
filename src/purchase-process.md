@@ -25,7 +25,7 @@ If you prioritize speed and trust the seller, you may choose to skip this step. 
 Agent provides you with the most cost-efficient shipping method. You pay the remaining balance, including:
 
 - Shipping cost.
-- Servive fee.
+- Service fee.
 
 After the remaining balance is received, Agent hands the parcel to the cross-border logistics carrier and will provide you with tracking method once it's available.
 

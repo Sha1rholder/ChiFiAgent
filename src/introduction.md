@@ -19,7 +19,7 @@ Proxy purchasing service mainly involves four steps:
 
 Please go to next page for detailed process.
 
-## Servive Fee
+## Service Fee
 
 - **New Items**: 2% of the item price (Min: 49 CNY / Max: 349 CNY)
 - **Pre-owned**: 3% of the item price (Min: 69 CNY / Max: 489 CNY)
