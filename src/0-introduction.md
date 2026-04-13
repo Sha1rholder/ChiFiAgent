@@ -6,8 +6,6 @@
 
 This website explains the full proxy purchasing workflow. Please read all sections and make sure you agree before placing an order.
 
-
-
 If you are interested in proxy purchasing service or simply have any questions, feel free to contact Agent via email: [sha1rholder@outlook.com](<mailto:sha1rholder@outlook.com?subject=Hi%20ChiFiAgent>).
 
 ## Customer Guide
