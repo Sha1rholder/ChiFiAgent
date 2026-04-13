@@ -6,5 +6,6 @@ ChiFiAgent提供以Hi-Fi产品为主的中国产品代购服务
 
 ## 致谢
 
-- [mdBook](https://rust-lang.github.io/mdBook/) — 用于构建本网站
 - [frankfurter.dev](https://frankfurter.dev/) — 用于获取实时汇率
+- [mdBook](https://rust-lang.github.io/mdBook/) — 用于构建本网站
+- [rumdl](https://rumdl.dev/) - 用于格式化文档
