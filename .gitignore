@@ -1,2 +1,3 @@
 /book/
-/drafts/
+draft*
+.rumdl_cache
