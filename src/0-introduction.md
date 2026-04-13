@@ -6,16 +6,16 @@
 
 This website explains the full proxy purchasing workflow. Please read all sections and make sure you agree before placing an order.
 
-If you have any questions, feel free to contact Agent via email: [sha1rholder@outlook.com](<mailto:sha1rholder@outlook.com?subject=Hi%20ChiFiAgent>).
+If you are interested in proxy purchasing service or simply have any questions, feel free to contact Agent via email: [sha1rholder@outlook.com](<mailto:sha1rholder@outlook.com?subject=Hi%20ChiFiAgent>).
 
 ## Customer Guide
 
 Proxy purchasing service mainly involves four steps:
 
-1. Selecting an item and providing your delivery details.
-2. Confirming the condition of your item.
-3. Choosing a shipping method.
-4. Sitting and waiting for item delivery.
+1. Select an item and provide your delivery details.
+2. Confirm the condition of your item.
+3. Choose a shipping method.
+4. Sit and wait for delivery.
 
 Please go to next page for detailed process.
 
