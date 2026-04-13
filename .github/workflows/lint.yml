@@ -1,10 +1,17 @@
-name: Lint Markdown
+name: Lint Markdown and TOML
 
 on: [push, pull_request]
 
 jobs:
-  rumdl:
+  lint:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
+
+      - uses: tombi-toml/setup-tombi@v1
+      - name: Tombi check
+        run: tombi format --check
+
       - uses: rvben/rumdl@v0
+      - name: Rumdl check
+        run: rumdl check .
