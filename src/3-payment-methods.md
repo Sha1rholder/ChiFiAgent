@@ -10,7 +10,7 @@ Pay via Alipay: scan [my Alipay QR code](<./assets/Alipay QR code.avif>). The le
 
 ## Visa
 
-If you pay via **Visa card**, banks may charge a service fee. The exact rate depends on your institution. Transfers usually take about one business day.
+If you pay via **Visa card**, banks may charge a service fee. The exact rate depends on your institution. *Transfers usually complete within 1 business day, though it can occasionally take up to 7 days in rare cases.*
 
 Pay via bank transfer through the SWIFT system:
 
