@@ -21,6 +21,7 @@ Account name: ZHANG CHENGYUAN
 Account number / IBAN: 6214855713710776
 CNAPS code: 308331012079
 Beneficiary's bank: China Merchants Bank, H.O. Shenzhen, China
+Address: XIHU DISTRICT, HANGZHOU CITY, ZHEJIANG PROVINCE, CHINA
 Remark: (leave blank)
 ```
 
