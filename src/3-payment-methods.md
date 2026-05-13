@@ -15,19 +15,6 @@ If you pay via **Visa card**, banks may charge a service fee. The exact rate dep
 Pay via bank transfer through the SWIFT system:
 
 ```txt
-Destination country: China
-SWIFT / BIC code: CMBCCNBS
-Account name: ZHANG CHENGYUAN
-Account number / IBAN: 6214855713710776
-CNAPS code: 308331012079
-Beneficiary's bank: China Merchants Bank, H.O. Shenzhen, China
-Address: XIHU DISTRICT, HANGZHOU CITY, ZHEJIANG PROVINCE, CHINA
-Remark: (leave blank)
-```
-
-Or:
-
-```txt
 Destination country: Hong Kong, China
 SWIFT / BIC code: SCBLHKHH
 Account name: ZHANG CHENGYUAN
