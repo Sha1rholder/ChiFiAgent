@@ -1,13 +1,5 @@
 # Payment Methods
 
-## Alipay
-
-**Alipay** is the preferred payment method for most customers if it's available in your region.
-
-You can either ask Agent for a payment QR code or provide your Alipay account phone number with country code to receive a payment request.
-
-Pay via Alipay: scan [my Alipay QR code](<./assets/Alipay QR code.avif>). The legal full name is `张君一`. If Alipay asks for a middle name, enter `君`.
-
 ## Visa
 
 If you pay via **Visa card**, banks may charge a service fee. The exact rate depends on your institution. *Transfers usually complete within 1 business day, though it can occasionally take up to 7 days in rare cases.*
@@ -26,6 +18,22 @@ Remark: (leave blank)
 ```
 
 Banks generally do not require recipients to explain the source of small cross-border remittances, but adding a remark may trigger manual clarification and delay processing. Once your payment is confirmed, you can ask Agent for a screenshot of the receipt.
+
+## Alipay
+
+**Alipay** is the preferred payment method for most customers if it's available in your region.
+
+You can either ask Agent for a payment QR code or provide your Alipay account phone number with country code to receive a payment request.
+
+Pay via Alipay: scan [my Alipay QR code](<./assets/Alipay QR code.avif>). The legal full name is `张君一`. If Alipay asks for a middle name, enter `君`.
+
+If you don't have an Alipay account, you can also use **Alipay Flash Collect** at <https://remit.alipay.com> to send money through a wide range of supported payment providers. Please note that this may incur some exchange rate loss.
+
+```txt
+Alipay ID: sha1rholder@outlook.com
+Last Name: ZHANG
+First Name: JUN YI
+```
 
 ## PayPal
 
